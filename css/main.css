@@ -57,7 +57,7 @@ div.vernav ul li, div.vernav ul li a, div.vernav ul li, div.vernav ul li a span 
 }
 
 #pagetop-inner {
-	background:  url(../images/car.jpg) 550px 130px   no-repeat;
+	background:  url(../images/hacker.jpg) 550px 130px   no-repeat;
 	width:950px;margin:0 auto;
 	color: #fff;
 	
@@ -84,7 +84,7 @@ div.vernav ul li, div.vernav ul li a, div.vernav ul li, div.vernav ul li a span 
 	height: 59px;
 	display: block;
 	float: left;
-	background: url(../images/logo.jpg) left top no-repeat;	
+	background: url(../images/logo.gif) left top no-repeat;	
 }
 
 #mainnav ul li {
@@ -131,7 +131,7 @@ div.vernav ul li, div.vernav ul li a, div.vernav ul li, div.vernav ul li a span 
 	width: 430px;
 	height: 71px;
 	text-indent: -5000px;
-	background: url(../images/label.gif) left top no-repeat;
+	background: url(../images/computo.jpg) left top no-repeat;
 	margin-bottom: 49px;
 }
 
