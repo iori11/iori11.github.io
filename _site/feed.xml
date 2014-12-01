@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alejandro Martinez</title>
-    <description>Pagina de Perfil Alejandro Martinez intereses, enlaces y proyectos desarrollada en Jekyll
-</description>
+    <description></description>
     <link>http://iori11.github.io/</link>
     <atom:link href="http://iori11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Nov 2014 21:24:08 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2014 21:24:08 -0500</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2014 01:06:59 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2014 01:06:59 -0500</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
