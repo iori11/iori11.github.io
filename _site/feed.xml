@@ -1,13 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alejandro Martinez</title>
+    <title>Blog Informatico</title>
     <description></description>
     <link>http://iori11.github.io/</link>
     <atom:link href="http://iori11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Dec 2014 01:06:59 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2014 01:06:59 -0500</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2014 14:35:07 -0500</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2014 14:35:07 -0500</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Breve Historia de la cultura Hacker</title>
+        <description>&lt;p&gt;Una breve historia de la cultura hacker desde los origenes de la programacion en computadores y de los lenguajes de programacion.
+&lt;a href=&quot;http://www.elhacker.net/breve-historia-de-la-cultura-hacker.html&quot; target=&quot;_blank&quot;&gt;
+&lt;br /&gt;Enlace original
+&lt;a&gt;&lt;/a&gt; &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Dec 2014 07:30:11 -0500</pubDate>
+        <link>http://iori11.github.io/historia,/hacker/2014/12/04/brevehistoria.html</link>
+        <guid isPermaLink="true">http://iori11.github.io/historia,/hacker/2014/12/04/brevehistoria.html</guid>
+        
+        
+        <category>historia,</category>
+        
+        <category>hacker</category>
+        
+      </item>
+    
+      <item>
+        <title>Hechos memorables</title>
+        <description>&lt;p&gt;Axel Gembe alias “Ago”, era un joven hacker de apenas 18 años amante del Half Life, tal era su pasión que un día decidió comprobar si era capaz de colarse en la red de la compañía que lo desarrollaba. Empezaba el verano del 2003 y se produciría una de las intrusiones más importantes de la década.
+&lt;a href=&quot;http://www.securitybydefault.com/2013/01/hackeos-memorables-el-codigo-fuente-del.html&quot; target=&quot;_blank&quot;&gt;
+&lt;br /&gt;Articulo Completo
+&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Dec 2014 06:10:37 -0500</pubDate>
+        <link>http://iori11.github.io/hack,/halflife/2014/12/03/seguridad.html</link>
+        <guid isPermaLink="true">http://iori11.github.io/hack,/halflife/2014/12/03/seguridad.html</guid>
+        
+        
+        <category>hack,</category>
+        
+        <category>halflife</category>
+        
+      </item>
+    
+      <item>
+        <title>Espionaje en llamadas</title>
+        <description>&lt;p&gt;Una operación denominada AURORAGOLD, enfocada en conocer todos los detalles y atacar las redes de comunicaciones de todas las operadoras de telecomunicaciones del mundo, algo que ellos estiman estaría rondando un número cercano al millar. Para ello, este grupo de la NSA de EEUU y el GCHQ británico estaría ubicado dentro de una unidad llamada T3C (Target Technology Trends Center), y debería proveer soporte a todas las operaciones que necesitaran hackear una comunicación móvil vía la operadora.
+&lt;a href=&quot;http://www.elladodelmal.com/2014/12/como-la-nsa-espia-las-llamadas-de.html&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/images/auroragold.jpg&quot; /&gt;
+&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Dec 2014 06:10:37 -0500</pubDate>
+        <link>http://iori11.github.io/nsa,/espionaje/2014/12/03/espionaje.html</link>
+        <guid isPermaLink="true">http://iori11.github.io/nsa,/espionaje/2014/12/03/espionaje.html</guid>
+        
+        
+        <category>nsa,</category>
+        
+        <category>espionaje</category>
+        
+      </item>
+    
+      <item>
+        <title>Armitage en nuestro idioma</title>
+        <description>&lt;p&gt;Una version en nuestro idioma del manual de Armitage 
+Armitage es una  Herramienta e colaboración en equipo que permite el uso de Scripts para Metasploit que permite visualizar objetivos, recomienda exploits y expone las características avanzadas de post-explotación que tiene el framework.&lt;/p&gt;
+
+&lt;p&gt;A través de una instancia de metasploit, su equipo (grupo de trabajo) podrá realizar lo siguiente:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Usar las mismas sesiones.
+Compartir host, datos capturados y archivos descargados.
+Comunicarse a través de un registro de eventos compartido.
+Ejecutar bots para automatizar las tareas del equipo (grupo de trabajo).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Armitage es un multiplicador de fuerzas para realizar operaciones en equipo
+&lt;a href=&quot;http://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/images/Armitage.png&quot; /&gt;
+&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Dec 2014 16:20:37 -0500</pubDate>
+        <link>http://iori11.github.io/armitage/2014/12/01/armitage.html</link>
+        <guid isPermaLink="true">http://iori11.github.io/armitage/2014/12/01/armitage.html</guid>
+        
+        
+        <category>armitage</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>

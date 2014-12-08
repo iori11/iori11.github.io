@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Armitage en nuestro idioma"
+date:   2014-12-01 21:20:37
+categories: armitage
+---
+
+Una version en nuestro idioma del manual de Armitage 
+Armitage es una  Herramienta e colaboración en equipo que permite el uso de Scripts para Metasploit que permite visualizar objetivos, recomienda exploits y expone las características avanzadas de post-explotación que tiene el framework.
+
+A través de una instancia de metasploit, su equipo (grupo de trabajo) podrá realizar lo siguiente:
+
+    Usar las mismas sesiones.
+    Compartir host, datos capturados y archivos descargados.
+    Comunicarse a través de un registro de eventos compartido.
+    Ejecutar bots para automatizar las tareas del equipo (grupo de trabajo).
+
+Armitage es un multiplicador de fuerzas para realizar operaciones en equipo
+<a href="http://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml" target="_blank">
+<img src="/images/Armitage.png">
+<a/>
+

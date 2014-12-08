@@ -9,18 +9,16 @@ Seguridad Informatica
 <img src="/images/dragon.png">
 <a/>
 
+Comunidad colombiana de Seguridad Informatica y hacking etico, con buenos tutoriales y noticias.
+
 <a href="http://www.blog.elhacker.net/" target="_blank">
 <img src="/images/hackernet.jpg">
 <a/>
+
+Blog dedicado a la informatica
 
 <a href="http://http://www.hackplayers.com/" target="_blank">
 <img src="/images/hackplayers.gif">
 <a/>
 
-
-
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-
+Pagina Recomendada.
